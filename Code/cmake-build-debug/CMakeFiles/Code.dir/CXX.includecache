@@ -6,7 +6,45 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/GA.cpp
+GA.h
+C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/GA.h
+
+C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/GA.h
+node.h
+C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/node.h
+vector
+-
+sstream
+-
+ostream
+-
+fstream
+-
+random
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+algorithm
+-
+map
+-
+
 C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/main.cpp
 iostream
+-
+fstream
+-
+chrono
+-
+GA.h
+C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/GA.h
+
+C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/node.h
+cmath
 -
 

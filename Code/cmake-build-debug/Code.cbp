@@ -80,7 +80,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/GA.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/GA.h">
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/main.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/node.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/node.h">
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="C:/Users/18502/Desktop/TSP-genetic-algorithm/Code/CMakeLists.txt">

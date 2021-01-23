@@ -122,6 +122,33 @@ Code/fast:
 	$(MAKE) -f CMakeFiles\Code.dir\build.make CMakeFiles/Code.dir/build
 .PHONY : Code/fast
 
+GA.obj: GA.cpp.obj
+
+.PHONY : GA.obj
+
+# target to build an object file
+GA.cpp.obj:
+	$(MAKE) -f CMakeFiles\Code.dir\build.make CMakeFiles/Code.dir/GA.cpp.obj
+.PHONY : GA.cpp.obj
+
+GA.i: GA.cpp.i
+
+.PHONY : GA.i
+
+# target to preprocess a source file
+GA.cpp.i:
+	$(MAKE) -f CMakeFiles\Code.dir\build.make CMakeFiles/Code.dir/GA.cpp.i
+.PHONY : GA.cpp.i
+
+GA.s: GA.cpp.s
+
+.PHONY : GA.s
+
+# target to generate assembly for a file
+GA.cpp.s:
+	$(MAKE) -f CMakeFiles\Code.dir\build.make CMakeFiles/Code.dir/GA.cpp.s
+.PHONY : GA.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -149,6 +176,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\Code.dir\build.make CMakeFiles/Code.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+node.obj: node.cpp.obj
+
+.PHONY : node.obj
+
+# target to build an object file
+node.cpp.obj:
+	$(MAKE) -f CMakeFiles\Code.dir\build.make CMakeFiles/Code.dir/node.cpp.obj
+.PHONY : node.cpp.obj
+
+node.i: node.cpp.i
+
+.PHONY : node.i
+
+# target to preprocess a source file
+node.cpp.i:
+	$(MAKE) -f CMakeFiles\Code.dir\build.make CMakeFiles/Code.dir/node.cpp.i
+.PHONY : node.cpp.i
+
+node.s: node.cpp.s
+
+.PHONY : node.s
+
+# target to generate assembly for a file
+node.cpp.s:
+	$(MAKE) -f CMakeFiles\Code.dir\build.make CMakeFiles/Code.dir/node.cpp.s
+.PHONY : node.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -158,9 +212,15 @@ help:
 	@echo ... Code
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... GA.obj
+	@echo ... GA.i
+	@echo ... GA.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... node.obj
+	@echo ... node.i
+	@echo ... node.s
 .PHONY : help
 
 
